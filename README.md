@@ -58,7 +58,7 @@ This project uses the **NASA Astronomy Picture of the Day (APOD) API** to fetch 
 
 ## 🌐 Live Demo
 
-🚀 Check it out here: [GalacticVisions on Vercel](https://galacticvisions.vercel.app)
+🚀 Check it out here: [GalacticVisions on Vercel](https://galatic-visions.vercel.app/)
 
 ---
 
